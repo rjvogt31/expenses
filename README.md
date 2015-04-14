@@ -1,3 +1,3 @@
 # expenses
-UT sports team expenses
-I like :golf:, :pizza:, and :coffee:.
+
+<div style="font-family:Georgia;font-size:300%">The Ever Growing UT Athletics Budget</div>
